@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidThreadStudy</string>
+    <string name="title_activity_thread_reatain">ThreadReatainActivity</string>
+</resources>
